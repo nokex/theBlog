@@ -9,4 +9,4 @@ Push an existing repository from the command line
 git remote add origin git@github.com:nokex/theBlog.git
 git push -u origin master
 
-this is an update at
+this is an update as a banch
