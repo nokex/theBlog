@@ -10,3 +10,5 @@ git remote add origin git@github.com:nokex/theBlog.git
 git push -u origin master
 
 this is an update as a banch
+
+ddd s as if i am fool 2
